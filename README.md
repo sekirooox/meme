@@ -9,7 +9,7 @@
 
 <figure style="text-align: center;">
   <img src="assets/img/huaban-6435104032.png" alt="个人插画" width="100%" >
-  <figcaption>我最喜欢的人物</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 <p align="center">
